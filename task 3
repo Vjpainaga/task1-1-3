@@ -1,0 +1,12 @@
+public class taskk
+{
+    public static void main(String args[])
+    {
+        int checknumber= 10;
+        System.out.println("Enter a number:");
+        if ( checknumber % 2 == 0 )
+            System.out.println("The entered number is even");
+        else
+            System.out.println("The entered number is odd");
+    }
+}
